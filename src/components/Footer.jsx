@@ -82,7 +82,7 @@ const Footer = () => {
         <Toolbar>
           <Grid container>
             <Grid item xs={12} sm={6}>
-              <p style={{ color: '#fff', margin: 0 }} className='text-center'>Ecommerce ©️ 2023. All right reserved</p>
+              <p style={{ color: '#fff', margin: 0 }} className='text-center'>Ecommerce ©️ 2024. All right reserved</p>
             </Grid>
 
            
